@@ -1,0 +1,11 @@
+#zegar {
+            text-align: center;
+            background-color: var(--darker-blue)
+            color:#fff;
+            border-radius: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 300px;
+            font-weight: bold;
+        }

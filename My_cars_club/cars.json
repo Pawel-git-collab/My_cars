@@ -1,0 +1,26 @@
+[
+    {
+        "cars": "Opel",
+        "speed": "220",
+        "price": 80000,
+        "mileage": 14,
+        "created": "",
+        "image_car":"cars/opel1.jpeg"
+    },
+    {
+        "cars": "Audi",
+        "speed": "300",
+        "price": 120000,
+        "mileage": 10,
+        "created": "",
+        "image_car":"cars/audi.jpeg"
+    },
+    {
+        "cars": "Mazda",
+        "speed": "240",
+        "price": 114000,
+        "mileage": 10,
+        "created": "",
+        "image_car":"cars/mazda1.jpeg"
+    }
+]

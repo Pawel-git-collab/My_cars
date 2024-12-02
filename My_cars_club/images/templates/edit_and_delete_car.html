@@ -1,0 +1,13 @@
+{% extends "home.html" %}
+
+{% block content %}
+<h1> Update and delete car in Database</h1>
+    <br>
+
+{% for x in object_list %}
+    <p><strong>Brand:</strong>{{ x.cars }}
+    <ul><a href="{% url 'update-car' x.id %}" class="btn btn-outline-secondary btn-sm">Update</a>
+    <a href="{% url 'delete-car' x.id %}" class="btn btn-outline-danger btn-sm">Delete</a></ul>
+
+{% endfor %}
+{% endblock %}

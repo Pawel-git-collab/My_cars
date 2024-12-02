@@ -1,0 +1,974 @@
+[
+  {
+    "id": 1,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-10T08:07:44.552672Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_WQ907zQ.jpeg"
+  },
+  {
+    "id": 2,
+    "cars": "Mazda",
+    "speed": 220,
+    "price": "45000.00",
+    "mileage": "12.00",
+    "created": "2024-10-10T08:57:12.414650Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_eXPhd7b.jpeg"
+  },
+  {
+    "id": 3,
+    "cars": "Porche",
+    "speed": 300,
+    "price": "340000.00",
+    "mileage": "20.00",
+    "created": "2024-10-12T08:48:54.560546Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2.jpeg"
+  },
+  {
+    "id": 4,
+    "cars": "Kia",
+    "speed": 220,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-12T08:51:19.750672Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia.jpeg"
+  },
+  {
+    "id": 5,
+    "cars": "Opel",
+    "speed": 216,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-27T17:14:31.710272Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_AIaQIM2.jpeg"
+  },
+  {
+    "id": 6,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-27T17:14:31.717528Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_ug5ieIC.jpeg"
+  },
+  {
+    "id": 7,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-27T17:14:31.724525Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_1sI1z3R.jpeg"
+  },
+  {
+    "id": 8,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-27T17:34:56.905534Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 9,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-27T17:34:56.914542Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 10,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-27T17:34:56.921550Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 11,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-28T15:24:38.326072Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_1oRollM.jpeg"
+  },
+  {
+    "id": 12,
+    "cars": "Mazda",
+    "speed": 220,
+    "price": "45000.00",
+    "mileage": "12.00",
+    "created": "2024-10-28T15:24:38.334711Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_lXJ4cPT.jpeg"
+  },
+  {
+    "id": 13,
+    "cars": "Porche",
+    "speed": 320,
+    "price": "340000.00",
+    "mileage": "20.00",
+    "created": "2024-10-28T15:24:38.341708Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/porche_hF1lDYk.jpg"
+  },
+  {
+    "id": 14,
+    "cars": "Kia",
+    "speed": 220,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-28T15:24:38.349289Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia_sIQfBm0.jpeg"
+  },
+  {
+    "id": 15,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-28T15:24:38.355115Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_eVrCvcF.jpeg"
+  },
+  {
+    "id": 16,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-28T15:24:38.361245Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audia4_Un55OmQ.png"
+  },
+  {
+    "id": 17,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-28T15:24:38.369450Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_ijzyjC2.jpeg"
+  },
+  {
+    "id": 18,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-28T15:24:38.375339Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_H6EmQhi.jpeg"
+  },
+  {
+    "id": 19,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-28T15:24:38.382529Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_ag96j66.jpeg"
+  },
+  {
+    "id": 20,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-28T15:24:38.401207Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_MuW995Y.jpeg"
+  },
+  {
+    "id": 21,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T17:07:01.412202Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 22,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T17:07:01.422182Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 23,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T17:07:01.429178Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 24,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T17:12:21.677066Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 25,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T17:12:21.686052Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 26,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T17:12:21.692049Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 27,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:24:51.775876Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_WQ907zQ.jpeg"
+  },
+  {
+    "id": 28,
+    "cars": "Mazda",
+    "speed": 220,
+    "price": "45000.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:24:51.783880Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_eXPhd7b.jpeg"
+  },
+  {
+    "id": 29,
+    "cars": "Porche",
+    "speed": 300,
+    "price": "340000.00",
+    "mileage": "20.00",
+    "created": "2024-10-30T18:24:51.791888Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2.jpeg"
+  },
+  {
+    "id": 30,
+    "cars": "Kia",
+    "speed": 220,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:24:51.797865Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia.jpeg"
+  },
+  {
+    "id": 31,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:24:51.803860Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_27emMPk.jpeg"
+  },
+  {
+    "id": 32,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:24:51.810857Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audia4_ZFU67Tw.png"
+  },
+  {
+    "id": 33,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:24:51.816853Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_aOLDhJz.jpeg"
+  },
+  {
+    "id": 34,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:24:51.824848Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 35,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:24:51.831848Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 36,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:24:51.837843Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 37,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:24:51.844838Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_an4c9lm.jpeg"
+  },
+  {
+    "id": 38,
+    "cars": "Mazda",
+    "speed": 220,
+    "price": "45000.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:24:51.852833Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_V6Owjc0.jpeg"
+  },
+  {
+    "id": 39,
+    "cars": "Porche",
+    "speed": 300,
+    "price": "340000.00",
+    "mileage": "20.00",
+    "created": "2024-10-30T18:24:51.858828Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/porche_o3TWJwE.jpg"
+  },
+  {
+    "id": 40,
+    "cars": "Kia",
+    "speed": 220,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:24:51.866610Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia_lid8qF8.jpeg"
+  },
+  {
+    "id": 41,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:24:51.872544Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia_EIalB5u.jpeg"
+  },
+  {
+    "id": 42,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:24:51.879542Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audia4_qCptJAk.png"
+  },
+  {
+    "id": 43,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:24:51.887104Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_b9HBcoP.jpeg"
+  },
+  {
+    "id": 44,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:24:51.893820Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_h7dqDaF.jpeg"
+  },
+  {
+    "id": 45,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:24:51.900797Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audia4_mj2rJU5.png"
+  },
+  {
+    "id": 46,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:24:51.908792Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_crkf7wM.jpeg"
+  },
+  {
+    "id": 47,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:24:51.915604Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 48,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:24:51.922904Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 49,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:24:51.929902Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 50,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:24:51.936618Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 51,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:24:51.943916Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 52,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:24:51.950519Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 53,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:27:06.833021Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_WQ907zQ.jpeg"
+  },
+  {
+    "id": 54,
+    "cars": "Mazda",
+    "speed": 220,
+    "price": "45000.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:27:06.855061Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_eXPhd7b.jpeg"
+  },
+  {
+    "id": 55,
+    "cars": "Porche",
+    "speed": 300,
+    "price": "340000.00",
+    "mileage": "20.00",
+    "created": "2024-10-30T18:27:06.861431Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2.jpeg"
+  },
+  {
+    "id": 56,
+    "cars": "Kia",
+    "speed": 220,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:27:06.870283Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia.jpeg"
+  },
+  {
+    "id": 57,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:27:06.877434Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_e0643EK.jpeg"
+  },
+  {
+    "id": 58,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:27:06.884432Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_ff5uNCX.jpeg"
+  },
+  {
+    "id": 59,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:27:06.890431Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_JS3xi65.jpeg"
+  },
+  {
+    "id": 60,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:27:06.898430Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 61,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:27:06.905440Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 62,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:27:06.912476Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 63,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:27:06.919457Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_BSwN2Y2.jpeg"
+  },
+  {
+    "id": 64,
+    "cars": "Mazda",
+    "speed": 220,
+    "price": "45000.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:27:06.926122Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_tGMnBhZ.jpeg"
+  },
+  {
+    "id": 65,
+    "cars": "Porche",
+    "speed": 300,
+    "price": "340000.00",
+    "mileage": "20.00",
+    "created": "2024-10-30T18:27:06.932529Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/porche_yK7SW27.jpg"
+  },
+  {
+    "id": 66,
+    "cars": "Kia",
+    "speed": 220,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:27:06.939461Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia_JY6M5fk.jpeg"
+  },
+  {
+    "id": 67,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:27:06.946484Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_mVcdspp.jpeg"
+  },
+  {
+    "id": 68,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:27:06.956499Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_AbUcMLI.jpeg"
+  },
+  {
+    "id": 69,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:27:06.966503Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_FTyGZ4m.jpeg"
+  },
+  {
+    "id": 70,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:27:06.973532Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_vpPAcwH.jpeg"
+  },
+  {
+    "id": 71,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:27:06.980483Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audia4_Bmhuuy9.png"
+  },
+  {
+    "id": 72,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:27:06.987488Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_su934Gn.jpeg"
+  },
+  {
+    "id": 73,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:27:06.993972Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 74,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:27:07.000532Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 75,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:27:07.007473Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 76,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:27:07.014492Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 77,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:27:07.021262Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 78,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:27:07.028258Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 79,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:30:11.431456Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_WQ907zQ.jpeg"
+  },
+  {
+    "id": 80,
+    "cars": "Mazda",
+    "speed": 220,
+    "price": "45000.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:30:11.440428Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_eXPhd7b.jpeg"
+  },
+  {
+    "id": 81,
+    "cars": "Porche",
+    "speed": 300,
+    "price": "340000.00",
+    "mileage": "20.00",
+    "created": "2024-10-30T18:30:11.449110Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2.jpeg"
+  },
+  {
+    "id": 82,
+    "cars": "Kia",
+    "speed": 220,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:30:11.456455Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia.jpeg"
+  },
+  {
+    "id": 83,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:30:11.463777Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_SKSvQ7q.jpeg"
+  },
+  {
+    "id": 84,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:30:11.470771Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audia4_7fTxiY6.png"
+  },
+  {
+    "id": 85,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:30:11.478867Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_FoGbznH.jpeg"
+  },
+  {
+    "id": 86,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:30:11.485891Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 87,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:30:11.493698Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 88,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:30:11.500446Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 89,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:30:11.507388Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_Lz5Hhlb.jpeg"
+  },
+  {
+    "id": 90,
+    "cars": "Mazda",
+    "speed": 220,
+    "price": "45000.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:30:11.513455Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_Dw8Qd3r.jpeg"
+  },
+  {
+    "id": 91,
+    "cars": "Porche",
+    "speed": 300,
+    "price": "340000.00",
+    "mileage": "20.00",
+    "created": "2024-10-30T18:30:11.521450Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/porche.jpg"
+  },
+  {
+    "id": 92,
+    "cars": "Kia",
+    "speed": 220,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-10-30T18:30:11.528454Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/kia_kXwcT2E.jpeg"
+  },
+  {
+    "id": 93,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:30:11.535449Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_j8Oe5UD.jpeg"
+  },
+  {
+    "id": 94,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:30:11.544461Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audia4_xCFHhz1.png"
+  },
+  {
+    "id": 95,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:30:11.551452Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1_FAMIO7J.jpeg"
+  },
+  {
+    "id": 96,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:30:11.558335Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1_kWxER1T.jpeg"
+  },
+  {
+    "id": 97,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:30:11.577327Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audia4.png"
+  },
+  {
+    "id": 98,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:30:11.585322Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda2_lGqi8vt.jpeg"
+  },
+  {
+    "id": 99,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:30:11.592318Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 100,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "205300.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:30:11.599314Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 101,
+    "cars": "Mazda",
+    "speed": 200,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:30:11.606310Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 102,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "20530.00",
+    "mileage": "14.00",
+    "created": "2024-10-30T18:30:11.612519Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 103,
+    "cars": "Audi",
+    "speed": 300,
+    "price": "20.00",
+    "mileage": "12.00",
+    "created": "2024-10-30T18:30:11.631567Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 104,
+    "cars": "Mazda",
+    "speed": 180,
+    "price": "24444.00",
+    "mileage": "10.00",
+    "created": "2024-10-30T18:30:11.638362Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/mazda1.jpeg"
+  },
+  {
+    "id": 105,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "111111.00",
+    "mileage": "14.00",
+    "created": "2024-11-02T19:25:05.511295Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 106,
+    "cars": "Opel",
+    "speed": 220,
+    "price": "111111.00",
+    "mileage": "14.00",
+    "created": "2024-11-02T19:33:36.267999Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/opel1.jpeg"
+  },
+  {
+    "id": 107,
+    "cars": "Audi",
+    "speed": 311,
+    "price": "22222.00",
+    "mileage": "15.00",
+    "created": "2024-11-02T19:49:43.889902Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi.jpeg"
+  },
+  {
+    "id": 108,
+    "cars": "Opel",
+    "speed": 200,
+    "price": "22000.00",
+    "mileage": "8.00",
+    "created": "2024-11-02T20:35:23.111344Z",
+    "image_car": "http://127.0.0.1:8000/media/cars/audi_WQ907zQ.jpeg"
+  }
+]
